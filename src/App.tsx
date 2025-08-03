@@ -62,7 +62,7 @@ function App() {
               
               <div className="flex items-center gap-2 text-white">
                 <i className="bi bi-lightning-charge-fill text-blue-400"></i>
-                <span className="text-sm">Powered by WebSparks AI</span>
+                <span className="text-sm">Powered by Ridoy</span>
               </div>
             </div>
 
@@ -156,7 +156,7 @@ function App() {
           <div className="text-center">
             <p className="text-sm text-slate-500 flex items-center justify-center gap-2">
               <i className="bi bi-lightning-charge-fill text-blue-400"></i>
-              Powered by WebSparks AI
+              Powered by Ridoy
             </p>
           </div>
         </div>
